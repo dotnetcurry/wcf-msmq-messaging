@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNCDispatcher", "DNCDispatcher\DNCDispatcher.csproj", "{72E6CD29-86F0-49F8-93C7-2D6998D767D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme.Shared.Contracts", "Acme.Shared.Contracts\Acme.Shared.Contracts.csproj", "{4FDCA294-9EEE-40B0-B90D-98474C388485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme.OrderReader", "Acme.OrderReader\Acme.OrderReader.csproj", "{AFD8EE39-AAAA-4503-A60E-EFD0F8B87BDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72E6CD29-86F0-49F8-93C7-2D6998D767D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E6CD29-86F0-49F8-93C7-2D6998D767D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E6CD29-86F0-49F8-93C7-2D6998D767D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E6CD29-86F0-49F8-93C7-2D6998D767D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FDCA294-9EEE-40B0-B90D-98474C388485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FDCA294-9EEE-40B0-B90D-98474C388485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FDCA294-9EEE-40B0-B90D-98474C388485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDCA294-9EEE-40B0-B90D-98474C388485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFD8EE39-AAAA-4503-A60E-EFD0F8B87BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD8EE39-AAAA-4503-A60E-EFD0F8B87BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD8EE39-AAAA-4503-A60E-EFD0F8B87BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD8EE39-AAAA-4503-A60E-EFD0F8B87BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

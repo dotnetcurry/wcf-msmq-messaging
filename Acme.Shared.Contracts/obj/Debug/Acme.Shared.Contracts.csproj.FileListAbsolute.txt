@@ -1,0 +1,5 @@
+E:\Users\Administrator\Desktop\DNCDispatcher\Acme.Shared.Contracts\bin\Debug\Acme.Shared.Contracts.dll
+E:\Users\Administrator\Desktop\DNCDispatcher\Acme.Shared.Contracts\bin\Debug\Acme.Shared.Contracts.pdb
+E:\Users\Administrator\Desktop\DNCDispatcher\Acme.Shared.Contracts\obj\Debug\Acme.Shared.Contracts.csprojResolveAssemblyReference.cache
+E:\Users\Administrator\Desktop\DNCDispatcher\Acme.Shared.Contracts\obj\Debug\Acme.Shared.Contracts.dll
+E:\Users\Administrator\Desktop\DNCDispatcher\Acme.Shared.Contracts\obj\Debug\Acme.Shared.Contracts.pdb

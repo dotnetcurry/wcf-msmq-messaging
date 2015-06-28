@@ -1,0 +1,8 @@
+E:\Users\Administrator\Desktop\DNCDispatcher\Acme.OrderReader\bin\Debug\Acme.OrderReader.exe.config
+E:\Users\Administrator\Desktop\DNCDispatcher\Acme.OrderReader\bin\Debug\Acme.OrderReader.exe
+E:\Users\Administrator\Desktop\DNCDispatcher\Acme.OrderReader\bin\Debug\Acme.OrderReader.pdb
+E:\Users\Administrator\Desktop\DNCDispatcher\Acme.OrderReader\bin\Debug\Acme.Shared.Contracts.dll
+E:\Users\Administrator\Desktop\DNCDispatcher\Acme.OrderReader\bin\Debug\Acme.Shared.Contracts.pdb
+E:\Users\Administrator\Desktop\DNCDispatcher\Acme.OrderReader\obj\Debug\Acme.OrderReader.csprojResolveAssemblyReference.cache
+E:\Users\Administrator\Desktop\DNCDispatcher\Acme.OrderReader\obj\Debug\Acme.OrderReader.exe
+E:\Users\Administrator\Desktop\DNCDispatcher\Acme.OrderReader\obj\Debug\Acme.OrderReader.pdb
